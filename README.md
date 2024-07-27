@@ -30,7 +30,8 @@ To start using the Speech to Text scripts, navigate to the src directory and run
 python speech_to_text_api.py
 ```
 
-Screenshots
+### Screenshots
+
 Here is a preview of the speech recognition output:
 ![Speech Recognition Screenshot](screenshots/1.png)
 ![Speech Recognition Screenshot](screenshots/2.png)
